@@ -1,0 +1,17 @@
+{
+  "name": "08-async-error-wrapper",
+  "version": "1.0.0",
+  "description": "Express.js coding challenge: Async Error Wrapper",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}
